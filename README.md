@@ -1,4 +1,14 @@
-# JAVA-FilesManager-like-TotalCommander
+# Information about the project
+
+### Project name: Files Manager
+### Technologies: Java
+### Creation time: Third semester of computer science studies
+### Purpose of creation: Final project for object oriented programming classes
+### Author(s): Kajetan Gałęziowski 
+
+# Preview and description
+
+
 Files Manager
 
 Application written in Java, working like famous TotalCommander, Object Oriented Programming Project divided into classes.
