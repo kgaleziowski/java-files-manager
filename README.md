@@ -1,10 +1,10 @@
 # Information about the project
 
-### Project name: Files Manager
-### Technologies: Java
-### Creation time: Third semester of computer science studies
-### Purpose of creation: Final project for object oriented programming classes
-### Author(s): Kajetan Gałęziowski 
+#### Project name: Files Manager
+#### Technologies: Java
+#### Creation time: Third semester of computer science studies
+#### Purpose of creation: Final project for object oriented programming classes
+#### Author(s): Kajetan Gałęziowski 
 
 # Preview and description
 
